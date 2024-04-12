@@ -1,7 +1,7 @@
 #include <Novice.h>
 #include "Vector.h"
 
-const char kWindowTitle[] = "LC1A_27_ヨシザワ_カツヤ";
+const char kWindowTitle[] = "LE2B_28_ヨシザワ_カツヤ";
 
 static const int kColumnWidth = 60;
 void VectorScreenPrintf(int x, int y, const Vector3& vector, const char* label) {
